@@ -1,0 +1,13 @@
+{
+  "name": "PortfolioSite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+
+  "scripts": {
+    "build": "sass scss/style.scss:css/style.css"
+  },
+  "dependencies": {
+    "sass": "^1.32.6"
+  }
+}
